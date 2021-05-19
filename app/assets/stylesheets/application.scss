@@ -14,3 +14,12 @@
  *= require_self
  */
 
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+@import "navabr";
+
+body {
+  background-color: #F4F4F4;
+  padding: 25px;
+}
